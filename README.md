@@ -85,9 +85,7 @@ The dataset includes:
 - **Python**: Core programming language
 - **Pandas**: Data manipulation and analysis
 - **NumPy**: Numerical computing
-- **Scikit-learn**: Machine learning algorithms
-  - Random Forest Classifier
-  - Decision Tree Regressor
+- **Scikit-learn**: Machine learning (Random Forest Classifier)
 - **KaggleHub**: Dataset downloading
 - **Jupyter Notebook**: Interactive development environment
 

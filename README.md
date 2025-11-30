@@ -1,6 +1,6 @@
 # Football Analyser
 
-A machine learning project that predicts football match outcomesfor teams in the Top Five European Leagues (2024/25 Edition).
+A machine learning project that predicts football match outcomes for teams in the Top Five European Leagues (2024/25 Edition).
 
 ## Features
 

@@ -1,0 +1,22 @@
+# Ignore everything by default
+*
+
+# But track these specific files
+!.gitignore
+!football_updated.ipynb
+!players_data_light-2024_2025.csv
+!README.md
+!requirements.txt
+
+# Still ignore these common unwanted files even if they match above patterns
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+venv/
+env/
+.kaggle/
+kaggle.json
+.DS_Store
+Thumbs.db
+*.ipynb_checkpoints
+
